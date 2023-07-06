@@ -1,35 +1,35 @@
-# Repositorio de Ayuda de Git y GitHub
+# REPOSITORIO DE AYUDA DE GIT Y GITHUB
 
-¡Bienvenido al Repositorio de Ayuda de Git y GitHub!
+¡BIENVENIDO AL REPOSITORIO DE AYUDA DE GIT Y GITHUB!
 
-Este repositorio tiene como objetivo proporcionar una guía práctica y accesible para aprender y utilizar Git y GitHub, dos herramientas fundamentales en el desarrollo de software y la colaboración en proyectos.
+ESTE REPOSITORIO TIENE COMO OBJETIVO PROPORCIONAR UNA GUÍA PRÁCTICA Y ACCESIBLE PARA APRENDER Y UTILIZAR GIT Y GITHUB, DOS HERRAMIENTAS FUNDAMENTALES EN EL DESARROLLO DE SOFTWARE Y LA COLABORACIÓN EN PROYECTOS.
 
-## Contenido del Repositorio
+## CONTENIDO DEL REPOSITORIO
 
-En este repositorio encontrarás:
+EN ESTE REPOSITORIO ENCONTRARÁS:
 
-- Una introducción a Git y GitHub, incluyendo sus beneficios y casos de uso.
-- Una explicación detallada de los comandos más utilizados en Git, como `init`, `add`, `commit`, `push`, `pull`, y más.
-- Un tutorial paso a paso sobre cómo configurar Git y GitHub en tu máquina local.
-- Información sobre las ramas (branches) y cómo gestionarlas correctamente.
-- Cómo colaborar en proyectos utilizando GitHub, incluyendo la creación de pull requests, la revisión de código y la gestión de problemas (issues).
-- Consejos y buenas prácticas para trabajar de manera eficiente con Git y GitHub.
+- UNA INTRODUCCIÓN A GIT Y GITHUB, INCLUYENDO SUS BENEFICIOS Y CASOS DE USO.
+- UNA EXPLICACIÓN DETALLADA DE LOS COMANDOS MÁS UTILIZADOS EN GIT.
+- UN TUTORIAL PASO A PASO SOBRE CÓMO CONFIGURAR GIT Y GITHUB EN TU MÁQUINA LOCAL.
+- INFORMACIÓN SOBRE LAS RAMAS (BRANCHES) Y CÓMO GESTIONARLAS CORRECTAMENTE.
+- CÓMO COLABORAR EN PROYECTOS UTILIZANDO GITHUB, INCLUYENDO LA CREACIÓN DE PULL REQUESTS, LA REVISIÓN DE CÓDIGO Y LA GESTIÓN DE PROBLEMAS (ISSUES).
+- CONSEJOS Y BUENAS PRÁCTICAS PARA TRABAJAR DE MANERA EFICIENTE CON GIT Y GITHUB.
 
-## Contribución
+## CONTRIBUCIÓN
 
-Tu contribución es bienvenida. Si deseas mejorar la guía, corregir errores, agregar más ejemplos o compartir tus propios consejos, ¡no dudes en hacerlo! Puedes realizar contribuciones a través de pull requests y serás acreditado por tus aportes.
+TU CONTRIBUCIÓN ES BIENVENIDA. SI DESEAS MEJORAR LA GUÍA, CORREGIR ERRORES, AGREGAR MÁS EJEMPLOS O COMPARTIR TUS PROPIOS CONSEJOS, ¡NO DUDES EN HACERLO! PUEDES REALIZAR CONTRIBUCIONES A TRAVÉS DE PULL REQUESTS Y SERÁS ACREDITADO POR TUS APORTES.
 
-## Recursos Adicionales
+## RECURSOS ADICIONALES
 
-Aquí tienes algunos recursos adicionales para aprender más sobre Git y GitHub:
+AQUÍ TIENES ALGUNOS RECURSOS ADICIONALES PARA APRENDER MÁS SOBRE GIT Y GITHUB:
 
-- [Documentación oficial de Git](https://git-scm.com/doc?lang=es)
-- [Documentación oficial de GitHub](https://docs.github.com/es)
-- [Try Git - Tutorial interactivo](https://try.github.io)
-- [GitHub Learning Lab](https://lab.github.com)
+- [DOCUMENTACIÓN OFICIAL DE GIT](HTTPS://GIT-SCM.COM/DOC?LANG=ES)
+- [DOCUMENTACIÓN OFICIAL DE GITHUB](HTTPS://DOCS.GITHUB.COM/ES)
+- [TRY GIT - TUTORIAL INTERACTIVO](HTTPS://TRY.GITHUB.IO)
+- [GITHUB LEARNING LAB](HTTPS://LAB.GITHUB.COM)
 
-## Licencia
+## LICENCIA
 
-Este repositorio está bajo la Licencia MIT. Esto significa que puedes utilizar, modificar y distribuir el contenido con fines comerciales y no comerciales, siempre y cuando se mantenga la atribución original. Puedes encontrar más información en el archivo [LICENSE](LICENSE).
+ESTE REPOSITORIO ESTÁ BAJO LA LICENCIA MIT. ESTO SIGNIFICA QUE PUEDES UTILIZAR, MODIFICAR Y DISTRIBUIR EL CONTENIDO CON FINES COMERCIALES Y NO COMERCIALES, SIEMPRE Y CUANDO SE MANTENGA LA ATRIBUCIÓN ORIGINAL. PUEDES ENCONTRAR MÁS INFORMACIÓN EN EL ARCHIVO [LICENSE](LICENSE).
 
-Esperamos que esta guía te ayude a mejorar tus habilidades con Git y GitHub. ¡Disfruta aprendiendo y colaborando!
+ESPERAMOS QUE ESTA GUÍA TE AYUDE A MEJORAR TUS HABILIDADES CON GIT Y GITHUB. ¡DISFRUTA APRENDIENDO Y COLABORANDO!
