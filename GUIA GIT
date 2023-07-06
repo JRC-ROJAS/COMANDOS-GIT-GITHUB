@@ -1,0 +1,58 @@
+# Guía Completa de Git
+
+Esta guía completa de Git proporciona una visión detallada de los conceptos, comandos y flujos de trabajo fundamentales en Git. Aprenderás cómo utilizar Git para controlar versiones de tu código y colaborar eficientemente en proyectos de desarrollo de software.
+
+## Introducción a Git
+
+Git es un sistema de control de versiones distribuido ampliamente utilizado en la industria del desarrollo de software. Algunos conceptos clave incluyen:
+
+- **Repositorio**: Un espacio donde se almacenan los archivos y el historial de cambios de tu proyecto.
+- **Commit**: Una instantánea de los cambios realizados en uno o varios archivos.
+- **Rama (Branch)**: Una línea independiente de desarrollo que permite trabajar en características o correcciones de errores sin afectar la rama principal.
+
+## Configuración y Configuración Inicial
+
+Antes de comenzar a utilizar Git, es importante realizar una configuración inicial. Aprenderás cómo:
+
+- Configurar tu nombre y dirección de correo electrónico.
+- Configurar opciones globales, como la configuración de color y formato de salida.
+
+## Comandos Básicos de Git
+
+- **git init**: Inicializa un nuevo repositorio de Git en un directorio.
+- **git clone**: Clona un repositorio remoto en tu máquina local.
+- **git add**: Agrega cambios realizados en un archivo o archivos al área de preparación (staging area).
+- **git commit**: Confirma los cambios agregados en el área de preparación.
+- **git status**: Muestra el estado actual del repositorio.
+- **git log**: Muestra el historial de commits.
+
+## Trabajando con Ramas
+
+- **git branch**: Lista todas las ramas en el repositorio.
+- **git checkout**: Cambia a una rama específica.
+- **git merge**: Fusiona los cambios de una rama en otra.
+
+## Colaboración con GitHub
+
+- **git remote**: Administra conexiones con repositorios remotos.
+- **git pull**: Obtiene los cambios más recientes de un repositorio remoto y los fusiona con tu rama local.
+- **git push**: Envía tus commits confirmados a un repositorio remoto.
+- **Pull Requests**: Cómo enviar solicitudes de extracción para contribuir a proyectos en GitHub.
+
+## Flujos de Trabajo Comunes
+
+- **Flujo de Trabajo Centralizado**: Un solo repositorio central para todo el equipo.
+- **Flujo de Trabajo de Rama por Característica**: Cada característica se desarrolla en una rama independiente.
+- **Flujo de Trabajo de Ramas Paralelas**: Desarrollo simultáneo en múltiples ramas.
+
+## Resolución de Conflictos
+
+- Cómo resolver conflictos al fusionar ramas con cambios en conflicto.
+
+## Recursos Adicionales
+
+- [Documentación oficial de Git en español](https://git-scm.com/doc?lang=es): La documentación completa y detallada de Git.
+- [Pro Git Book](https://git-scm.com/book/es/v2): Un libro completo sobre Git.
+
+Esta guía completa de Git te proporciona una base sólida para comenzar a utilizar Git y aprovechar sus capacidades en tus proyectos de desarrollo de software. ¡Explora más a fondo y disfruta de la potencia de Git!
+
